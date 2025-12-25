@@ -1,4 +1,4 @@
-<img width="1895" height="888" alt="Screenshot 2025-12-24 233101" src="https://github.com/user-attachments/assets/4cacbb34-9e45-4f87-a8a2-a9eddc57f9d5" />📌 Placement Tracker System
+📌 Placement Tracker System
 
 The Placement Tracker System is a web-based application designed to automate and streamline the campus placement process. It replaces manual methods such as spreadsheets and notice boards with a centralized, secure, and role-based platform for students and placement administrators.
 
